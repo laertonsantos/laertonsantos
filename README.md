@@ -2,8 +2,6 @@
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
 - 🌱 I’m currently learning **Javascript, Html, Css**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
